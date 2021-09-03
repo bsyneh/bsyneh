@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3>Introduction</h3>
 
-<!--
-**sycookie/sycookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is <b><i>Jesús</i></b>, also known as <b><i>cookie</i></b> in Discord.
 
-Here are some ideas to get you started:
+I have been developing bots/self-bots for servers and discord users for almost 2 years in the <b>py & js<b> modules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Projects</h3>
+
+- <a hreft="https://github.com/sycookie/zhu-selfbot">Zhu Selfbot:</a> (Currently in Development)
+- Cookie Selfbot Beta: (Discontinued and out of Support)
+
+<h3>Contact</h3>
+
+- <b>Discord:</b> <i>cookἰe#7426</i>
+
+- <b>Telegram:</b> <i>@sycookie</i>
+
+- <b>Email:</b> <i>sycookie@pm.me</i>

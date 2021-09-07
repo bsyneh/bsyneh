@@ -14,5 +14,3 @@ I have been developing bots/self-bots for servers and discord users for almost 2
 - <b>Discord:</b> <i>cookἰe#7426</i>
 
 - <b>Telegram:</b> <i>@sycookie</i>
-
-- <b>Email:</b> <i>sycookie@pm.me</i>

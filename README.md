@@ -11,6 +11,6 @@ I have been developing bots/self-bots for servers and discord users for almost 2
 
 <h3>Contact</h3>
 
-- <b>Discord:</b> <i>cookἰe#7426</i>
+- <b>Discord:</b> <i>cookie#8157</i>
 
 - <b>Telegram:</b> <i>@sycookie</i>

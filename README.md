@@ -6,11 +6,11 @@ I have been developing bots/self-bots for servers and discord users for almost 2
 
 <h3>Projects</h3>
 
-- <a hreft="https://github.com/sycookie/zhu-selfbot">Zhu Selfbot:</a> (Currently in Development)
+- Zhu Selfbot: (Currently in Development)
 - Cookie Selfbot Beta: (Discontinued)
 
 <h3>Contact</h3>
 
-- <b>Discord:</b> <i>cookie#8157</i>
+- <b>Discord:</b> <a href="https://discord.com/users/875421899017039903"><i>cookie#8157</i></a>
 
-- <b>Telegram:</b> <i>@sycookie</i>
+- <b>Telegram:</b> <a href="https://telegram.me/sycookie"><i>@sycookie</i></a>

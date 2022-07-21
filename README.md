@@ -1,12 +1,12 @@
-### Introduction
+### introduction
 
-Hi, my name is <b><i>Jesus</i></b>, aka <b><i>cookie</i></b> in Discord.
+hey, my name is <b><i>cookie</i></b>.
 
-I have been developing bots/self-bots for servers and discord users for almost 2 years in the <b>py & js<b> modules.
+i have been developing bots/self-bots for servers and discord users for almost 2 years in the <b>py & js<b> modules.
 
 ---  
   
-### Discord Status
+### discord status
 
 <a href="https://discord.com/users/875421899017039903">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/875421899017039903.png" />
@@ -14,28 +14,28 @@ I have been developing bots/self-bots for servers and discord users for almost 2
 
 ---
   
-### Projects
+### projects
 
-- Cookie Selfbot Beta: (Discontinued)
-
----  
-  
-### Contact
-
-- <b>Discord:</b> <a href="https://discord.com/users/875421899017039903"><i>cookie#8157</i></a>
-
-- <b>Telegram:</b> <a href="https://telegram.me/sycookie"><i>@sycookie</i></a>
+- cookie selfbot beta: (Discontinued)
 
 ---  
   
-### Languages and Tools
-  
-- <a href="https://www.python.org/">Python</a>
+### contact
 
-- <a href="https://www.javascript.com/">Javascript</a>
+- <b>discord:</b> <a href="https://discord.com/users/875421899017039903"><i>cookie#9014</i></a>
+
+- <b>telegram:</b> <a href="https://telegram.me/6cookie"><i>@6cookie</i></a>
+
+---  
   
-- <a href="https://github.com/">Github</a>
+### languages and tools
   
-- <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+- <a href="https://www.python.org/">python</a>
+
+- <a href="https://www.javascript.com/">javascript</a>
+  
+- <a href="https://github.com/">github</a>
+  
+- <a href="https://code.visualstudio.com/">visual studio code</a>
   
   

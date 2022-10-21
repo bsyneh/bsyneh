@@ -6,7 +6,7 @@ i have been developing bots/self-bots for servers and discord users for almost 2
 
 ---  
   
-### discord status;
+### discord status ;
 
 <a href="https://discord.com/users/995354271979667596">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/995354271979667596.png" />
@@ -14,14 +14,14 @@ i have been developing bots/self-bots for servers and discord users for almost 2
 
 ---
   
-### projects;
+### projects ;
 
 - cookie selfbot beta: (discontinued)
 - discord moderation bot: (discontinued)
 
 ---  
   
-### contact;
+### contact ;
 
 - <b>discord:</b> <a href="https://discord.com/users/995354271979667596"><i>cookie#7055</i></a>
 
@@ -29,14 +29,12 @@ i have been developing bots/self-bots for servers and discord users for almost 2
 
 ---  
   
-### languages and tools;
+### languages and tools ;
   
 - <a href="https://www.python.org/">python</a>
 
 - <a href="https://www.javascript.com/">javascript</a>
-  
-- <a href="https://github.com/">github</a>
-  
+    
 - <a href="https://code.visualstudio.com/">visual studio code</a>
   
   

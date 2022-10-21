@@ -1,8 +1,8 @@
 ### introduction;
 
-hey, my name is <b><i>cookie</i></b>.
+hey, my name's <b><i>cookie</i></b>.
 
-i have been developing bots/self-bots for servers and discord users for almost 2 years in the <b>py & js<b> modules.
+i have been developing bots/self-bots for servers and discord users for almost 3 years in the <b>py & js<b> modules.
 
 ---  
   

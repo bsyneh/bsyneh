@@ -1,4 +1,4 @@
-### introduction
+### introduction;
 
 hey, my name is <b><i>cookie</i></b>.
 
@@ -6,21 +6,22 @@ i have been developing bots/self-bots for servers and discord users for almost 2
 
 ---  
   
-### discord status
+### discord status;
 
-<a href="https://discord.com/users/875421899017039903">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/875421899017039903.png" />
+<a href="https://discord.com/users/995354271979667596">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/995354271979667596.png" />
 </a>
 
 ---
   
-### projects
+### projects;
 
-- cookie selfbot beta: (Discontinued)
+- cookie selfbot beta: (discontinued)
+- discord moderation bot: (discontinued)
 
 ---  
   
-### contact
+### contact;
 
 - <b>discord:</b> <a href="https://discord.com/users/875421899017039903"><i>cookie#9014</i></a>
 
@@ -28,7 +29,7 @@ i have been developing bots/self-bots for servers and discord users for almost 2
 
 ---  
   
-### languages and tools
+### languages and tools;
   
 - <a href="https://www.python.org/">python</a>
 

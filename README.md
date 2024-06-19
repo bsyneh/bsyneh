@@ -9,7 +9,7 @@ i have been developing bots/self-bots for servers and discord users for almost 3
 ### discord status ;
 
 <a href="https://discord.com/users/995354271979667596">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/995354271979667596.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-1/875421899017039903.png" />
 </a>
 
 ---

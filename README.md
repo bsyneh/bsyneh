@@ -23,9 +23,9 @@ i have been developing bots/self-bots for servers and discord users for almost 3
   
 ### contact ;
 
-- <b>discord:</b> <a href="https://discord.com/users/995354271979667596"><i>cookie#7055</i></a>
+- <b>discord:</b> <a href="https://discord.com/users/995354271979667596"><i>wkeb.</i></a>
 
-- <b>telegram:</b> <a href="https://telegram.me/6cookie"><i>@6cookie</i></a>
+- <b>telegram:</b> <a href="https://telegram.me/cookie"><i>@cookie</i></a>
 
 ---  
   
